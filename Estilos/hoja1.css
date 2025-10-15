@@ -1,0 +1,74 @@
+.Boton{
+    text-align: center;
+    color: aqua;
+    border-radius: 5px;
+}
+
+
+h1{
+    font-size : 80px ;
+    color:brown;
+    font-family: Matura MT Script Capitals, sans-serif;
+    background-color: lightgray;
+}
+h2  {
+    font-size : 100px ;
+    color:blue;
+    font-family: Comic Sans MS, sans-serif;
+
+}
+h3  {
+    font-size : 30px ;
+    color:green;
+    font-family: MV Boli, sans-serif;
+}
+h4  {
+    font-size : 35px ;
+    color:purple;
+    font-family: Kristen ITC, sans-serif; 
+}
+h5  {
+    font-size : 40px ;
+    color:orange;
+    font-family: Goudy Stout, sans-serif;
+}
+h6  {
+    font-size : 100px ;
+    color:rgb(151, 9, 9);
+    font-family: Times New Roman, serif;
+}
+p {
+    font-family: Palatino Linotype, sans-serif;
+    text-align: center; 
+    color: #ffc400; 
+    font-size: 16px; 
+    line-height: 1.5;  
+    background-color: black;
+}
+ a {
+ color: #ff0000;
+ text-decoration: none; 
+}
+ /* Estilos que se aplican solo cuando el cursor está sobre el enlace. */
+ a:hover { 
+/* Cambia el color del texto al pasar el cursor. */
+ color: #00b33c; 
+/* Añade un subrayado al pasar el cursor para dar una señal visual. */
+ text-decoration: underline; 
+ }
+
+img  { 
+width: 250px; 
+height: auto;
+ border-radius: 8px; 
+transition: transform 0.3s;
+}
+
+/* Estilos que se aplican solo cuando el cursor está sobre la imagen. */
+img:hover { 
+/* Aumenta la imagen en un 10% cuando el usuario pasa el cursor por
+ encima. */
+ transform: scale(1.1); 
+}
+
+
